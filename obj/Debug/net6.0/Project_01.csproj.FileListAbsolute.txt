@@ -1,0 +1,15 @@
+/Users/MyMac/Desktop/Repo/Project_01/bin/Debug/net6.0/Project_01
+/Users/MyMac/Desktop/Repo/Project_01/bin/Debug/net6.0/Project_01.deps.json
+/Users/MyMac/Desktop/Repo/Project_01/bin/Debug/net6.0/Project_01.runtimeconfig.json
+/Users/MyMac/Desktop/Repo/Project_01/bin/Debug/net6.0/Project_01.dll
+/Users/MyMac/Desktop/Repo/Project_01/bin/Debug/net6.0/Project_01.pdb
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.csproj.AssemblyReference.cache
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.AssemblyInfoInputs.cache
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.AssemblyInfo.cs
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.csproj.CoreCompileInputs.cache
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.dll
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/refint/Project_01.dll
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.pdb
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/Project_01.genruntimeconfig.cache
+/Users/MyMac/Desktop/Repo/Project_01/obj/Debug/net6.0/ref/Project_01.dll
